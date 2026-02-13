@@ -1,3 +1,11 @@
 ### Notpad 
 first command : open a new project in cursor using cmd :
 cursor (path name )
+
+second cmd :  open the project using cmd on github 
+1) cd (project that you wat to open )
+2) git-bash (path of the project)
+
+third cmd : clone a repositry 
+1) git clone(html website)
+
